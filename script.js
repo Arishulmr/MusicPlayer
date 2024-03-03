@@ -15,21 +15,21 @@ currentTimeEl = document.getElementById('current-time'),
 
  const songs = [
     {
-        path: 'assets/1.mp3',
+        path: 'Assets/1.mp3',
         displayName: 'Secret Base',
-        cover: 'assets/1.jpg',
+        cover: 'Assets/1.jpg',
         artist: 'Kessoku Band',
     },
     {
-        path: 'assets/2.mp3',
+        path: 'Assets/2.mp3',
         displayName: 'Venom',
-        cover: 'assets/2.jpg',
+        cover: 'Assets/2.jpg',
         artist: 'Tenjin Kotone',
     },
     {
-        path: 'assets/3.mp3',
+        path: 'Assets/3.mp3',
         displayName: 'Lower One\'s Eyes',
-        cover: 'assets/3.jpg',
+        cover: 'Assets/3.jpg',
         artist: 'Hoshimachi Suisei',
     }
  ];
